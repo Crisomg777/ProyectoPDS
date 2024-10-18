@@ -17,7 +17,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 const userData = { email: email, password: password };
                 localStorage.setItem(username, JSON.stringify(userData));
                 alert('Registro exitoso. Ahora puedes iniciar sesión.');
-                window.location.href = 'index.html';
+                window.location.href = '../Pages/login.html';   
             }
         });
     }

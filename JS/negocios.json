@@ -1,0 +1,90 @@
+[
+    {
+        "nombre": "Negocio A",
+        "productos": [
+            {
+                "nombre": "Producto 1",
+                "imagen": "producto1.jpg",
+                "precio": 10.99,
+                "id": 101
+            },
+            {
+                "nombre": "Producto 2",
+                "imagen": "producto2.jpg",
+                "precio": 5.49,
+                "id": 102
+            },
+            {
+                "nombre": "Producto 3",
+                "imagen": "producto3.jpg",
+                "precio": 15.00,
+                "id": 103
+            },
+            {
+                "nombre": "Producto 4",
+                "imagen": "producto4.jpg",
+                "precio": 8.99,
+                "id": 104
+            }
+        ]
+    },
+    {
+        "nombre": "Negocio B",
+        "productos": [
+            {
+                "nombre": "Producto 5",
+                "imagen": "producto5.jpg",
+                "precio": 20.99,
+                "id": 105
+            },
+            {
+                "nombre": "Producto 6",
+                "imagen": "producto6.jpg",
+                "precio": 13.99,
+                "id": 106
+            },
+            {
+                "nombre": "Producto 7",
+                "imagen": "producto7.jpg",
+                "precio": 25.49,
+                "id": 107
+            },
+            {
+                "nombre": "Producto 8",
+                "imagen": "producto8.jpg",
+                "precio": 9.99,
+                "id": 108
+            }
+        ]
+    },
+    {
+        "nombre": "Negocio C",
+        "productos": [
+            {
+                "nombre": "Producto 9",
+                "imagen": "producto9.jpg",
+                "precio": 30.50,
+                "id": 109
+            },
+            {
+                "nombre": "Producto 10",
+                "imagen": "producto10.jpg",
+                "precio": 18.75,
+                "id": 110
+            },
+            {
+                "nombre": "Producto 11",
+                "imagen": "producto11.jpg",
+                "precio": 12.00,
+                "id": 111
+            },
+            {
+                "nombre": "Producto 12",
+                "imagen": "producto12.jpg",
+                "precio": 22.99,
+                "id": 112
+            }
+        ]
+    }
+
+]
