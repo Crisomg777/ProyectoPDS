@@ -35,8 +35,8 @@ document.addEventListener('DOMContentLoaded', () => {
             }
         });
     }
-    document.getElementById("home").addEventListener("click", function(event) {
+    /* document.getElementById("home").addEventListener("click", function(event) {
         event.preventDefault(); 
         location.reload(); 
-    })
+    }) */
 });
