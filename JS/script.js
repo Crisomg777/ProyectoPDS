@@ -40,3 +40,8 @@ document.addEventListener('DOMContentLoaded', () => {
         location.reload(); 
     }) */
 });
+
+function goToNegocio(direccion) {
+    window.location.href = direccion;
+}
+

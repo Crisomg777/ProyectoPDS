@@ -1,6 +1,6 @@
 [
     {
-        "nombre": "Negocio A",
+        "nombre": "Negocio 1",
         "productos": [
             {
                 "nombre": "Producto 1",
@@ -173,7 +173,7 @@
             }
         ]
     },
-    {
+    {   
         "nombre": "Negocio G",
         "productos": [
             {
