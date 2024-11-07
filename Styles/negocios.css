@@ -7,7 +7,7 @@ body {
     color: #333;
 }
 header {
-    background-color: #ff5733;
+    background-color: #3c33a3;
     color: white;
     text-align: center;
     padding: 1em 0;
@@ -26,7 +26,7 @@ header {
     margin-top: 20px;
 }
 .menu h2 {
-    color: #ff5733;
+    color: #3c33a3;
 }
 .menu-item {
     display: flex;
