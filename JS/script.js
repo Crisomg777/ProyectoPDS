@@ -41,7 +41,7 @@ document.addEventListener('DOMContentLoaded', () => {
     }) */
 });
 
-function goToNegocio(direccion) {
-    window.location.href = direccion;
+function goToNegocio(url) {
+    window.location.href = url;
 }
 
