@@ -323,4 +323,4 @@ function cargarNegocio() {
     `).join('');
 }
 
-window.onload = cargarNegocio;   // Cambiado para asignar la función sin ejecutarla inmediatamente
+window.onload = cargarNegocio;
